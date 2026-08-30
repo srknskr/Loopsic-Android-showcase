@@ -10,7 +10,7 @@
 
 ## About
 
-Loopsic is a native Android music application centered on loop playback, BPM practice, playlist organization, and custom loop creation. Its private implementation combines a Java Android application with a local data layer, playback services, an equalizer module, premium content, notifications, and media integrations.
+Loopsic is a rhythm library for turning short patterns into repeatable practice sessions. The app connects categorized content with custom loops, playlists, BPM control, premium packs, background playback, and a lightweight shop/user experience, giving the product a clear path from discovery to practice.
 
 ## Screenshots
 
